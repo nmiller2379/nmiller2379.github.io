@@ -1,7 +1,7 @@
 # Horiseon code refactor
 
 This project offers a well-formatted website for Horiseon, which explains the company's search engine optimization, online reputation management and social media marketing offerings.
-![Website] (./assets/images/Horiseon.png)
+<img src="assets/images/Horiseon.png">
 
 ## Installation/Usage
 
